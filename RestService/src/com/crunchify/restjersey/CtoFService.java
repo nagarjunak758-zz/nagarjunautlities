@@ -1,7 +1,7 @@
 package com.crunchify.restjersey;
 
 /**
- * @author nkanamar
+ * @author Nagarjuna
  */
 
 import javax.ws.rs.GET;
