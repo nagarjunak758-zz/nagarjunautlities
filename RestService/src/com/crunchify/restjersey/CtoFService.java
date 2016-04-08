@@ -14,7 +14,7 @@ public class CtoFService {
 	@GET
 	@Produces("application/xml")
 	public String convertCtoF() {
-
+		System.out.println(124);
 		Double fahrenheit;
 		Double celsius = 36.8;
 		fahrenheit = ((celsius * 9) / 5) + 32;
