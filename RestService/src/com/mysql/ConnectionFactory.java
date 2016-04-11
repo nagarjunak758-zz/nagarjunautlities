@@ -3,6 +3,7 @@ package com.mysql;
 import java.sql.Connection;
 import java.sql.SQLException;
 
+
 import org.apache.commons.dbcp2.BasicDataSource;
 
 public class ConnectionFactory {
@@ -19,6 +20,7 @@ public class ConnectionFactory {
 	}
 
 	private ConnectionFactory() {
+		;
 		// TODO Auto-generated constructor stub
 	}
 
