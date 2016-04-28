@@ -17,6 +17,7 @@ public class ConnectionFactory {
 		dataSource.setPassword("password");
 		dataSource.setInitialSize(100);
 		dataSource.setLifo(false);
+		
 	}
 
 	private ConnectionFactory() {
