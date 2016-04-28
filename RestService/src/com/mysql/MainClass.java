@@ -72,7 +72,7 @@ public class MainClass {
 		System.out.print(resultSet.getString(1) + ", ");
 		System.out.print(resultSet.getString(2) + ", ");
 		System.out.print(resultSet.getString(3) + ", ");
-		System.out.println();
+		System.out.println(123);
 	}
 
 }
